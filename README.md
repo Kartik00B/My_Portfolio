@@ -1,4 +1,3 @@
-
 # 💼 Portfolio Website
 
 Welcome to my portfolio website! This project showcases my work, skills, and accomplishments. Built as part of my internship with CodSoft, this portfolio is designed to present my professional journey and technical expertise.
@@ -26,17 +25,17 @@ This project was developed as part of my virtual internship at CodSoft. The goal
 
 ## 🚀 How to View
 
-You can view the live website here: [Portfolio Website](#) (Replace `#` with your actual GitHub Pages link or the URL where your portfolio is hosted)
+You can view the website code here: [Portfolio Website](#) (Replace `https://github.com/Kartik00B` with your actual GitHub Pages link or the URL where your portfolio is hosted)
 
 ## 📁 Project Structure
 
 \`\`\`plaintext
 .
-├── index.html           # Main HTML file
-├── styles.css           # CSS for styling the webpage
-├── script.js            # JavaScript for interactivity
-├── assets/              # Folder containing images and other assets
-└── README.md            # This README file
+├── index.html # Main HTML file
+├── styles.css # CSS for styling the webpage
+├── script.js # JavaScript for interactivity
+├── assets/ # Folder containing images and other assets
+└── README.md # This README file
 \`\`\`
 
 ## 👨‍💻 How to Use
@@ -45,7 +44,7 @@ To explore the code or run the project locally:
 
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/your-portfolio.git
+   git clone https://github.com/Kartik00B/My_Portfolio.git
    \`\`\`
 2. Navigate into the project directory:
    \`\`\`bash
@@ -57,11 +56,11 @@ To explore the code or run the project locally:
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: [your.email@example.com](mailto:kartikbhapkar09@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
+- **GitHub**: [Your GitHub Profile](https://github.com/Kartik00B)
 
 ## 🎉 Acknowledgments
 
-- Special thanks to [CodSoft](https://www.codsoft.org/) for the opportunity to intern and build this project.
+- Special thanks to [CodSoft](https://www.codsoft.in/) for the opportunity to intern and build this project.
 - Inspiration and design ideas from various online resources and portfolio templates.
