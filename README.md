@@ -25,7 +25,7 @@ This project was developed as part of my virtual internship at CodSoft. The goal
 
 ## 🚀 How to View
 
-You can view the website code here: [Portfolio Website](#) (Replace `https://github.com/Kartik00B` with your actual GitHub Pages link or the URL where your portfolio is hosted)
+You can view the website code here: [Portfolio Website](https://github.com/Kartik00B) 
 
 ## 📁 Project Structure
 
