@@ -1,1 +1,67 @@
-# My_Portfolio
+
+# 💼 Portfolio Website
+
+Welcome to my portfolio website! This project showcases my work, skills, and accomplishments. Built as part of my internship with CodSoft, this portfolio is designed to present my professional journey and technical expertise.
+
+## 🌟 Features
+
+- **Responsive Design**: Optimized for all devices (desktops, tablets, and mobile).
+- **Interactive UI/UX**: Engaging user interface with smooth transitions and animations.
+- **Projects Showcase**: Detailed display of my projects with links to their respective repositories.
+- **Skills Section**: Highlighting my technical and professional skills.
+- **Contact Form**: Easy way to get in touch with me directly from the website.
+
+## 🛠️ Technologies Used
+
+- **HTML5**: For the basic structure and content of the webpage.
+- **CSS3**: For styling, including Flexbox and Grid for layout, and CSS animations for interactions.
+- **JavaScript**: For adding interactivity, smooth scrolling, and dynamic content display.
+- **Font Awesome**: For using scalable vector icons.
+- **Google Fonts**: For elegant and readable typography.
+- **GitHub Pages**: For hosting the live version of the portfolio.
+
+## 🎯 Purpose
+
+This project was developed as part of my virtual internship at CodSoft. The goal was to create a personal portfolio that effectively showcases my abilities and professional experience. It serves as both a personal branding tool and a demonstration of my web development skills.
+
+## 🚀 How to View
+
+You can view the live website here: [Portfolio Website](#) (Replace `#` with your actual GitHub Pages link or the URL where your portfolio is hosted)
+
+## 📁 Project Structure
+
+\`\`\`plaintext
+.
+├── index.html           # Main HTML file
+├── styles.css           # CSS for styling the webpage
+├── script.js            # JavaScript for interactivity
+├── assets/              # Folder containing images and other assets
+└── README.md            # This README file
+\`\`\`
+
+## 👨‍💻 How to Use
+
+To explore the code or run the project locally:
+
+1. Clone this repository:
+   \`\`\`bash
+   git clone https://github.com/yourusername/your-portfolio.git
+   \`\`\`
+2. Navigate into the project directory:
+   \`\`\`bash
+   cd your-portfolio
+   \`\`\`
+3. Open `index.html` in your favorite web browser.
+
+## 📬 Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+
+## 🎉 Acknowledgments
+
+- Special thanks to [CodSoft](https://www.codsoft.org/) for the opportunity to intern and build this project.
+- Inspiration and design ideas from various online resources and portfolio templates.
